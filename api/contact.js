@@ -28,4 +28,4 @@ export default async function handler(req, res) {
 
 Después en Vercel → **Settings → Environment Variables** agregás:
 ```
-RESEND_API_KEY = re_iLmhFJuh_HDNGHYziRtjHsqB17PvLmxBS
+RESEND_API_KEY = re_8tvViMfy_9hUV1ogE9oTPjX2LvZgr4Ghn
